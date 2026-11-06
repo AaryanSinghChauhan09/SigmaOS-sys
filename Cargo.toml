@@ -1,0 +1,6 @@
+[package]
+name = "sigmaos-sys"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS shared syscall/ABI abstraction layer"
+license = "MIT"
